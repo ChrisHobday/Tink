@@ -11,7 +11,7 @@ homepage:       https://github.com/ChrisHobday/Tink#readme
 bug-reports:    https://github.com/ChrisHobday/Tink/issues
 author:         Chris Hobday
 maintainer:     hobday.chris@protonmail.com
-copyright:      Copyright: (c) 2021 Chris Hobday
+copyright:      Copyright: (c) 2022 Chris Hobday
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
@@ -25,7 +25,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      TextEditor
   other-modules:
       Paths_Tink
   hs-source-dirs:

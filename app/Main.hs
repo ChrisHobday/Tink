@@ -1,6 +1,6 @@
 module Main (main) where
 
-import Lib
+import TextEditor
 
 main :: IO ()
-main = someFunc
+main = putStrLn $ text textEditor
